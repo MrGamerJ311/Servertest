@@ -1,0 +1,18 @@
+{
+    "753315155168985099": {
+        "servername": "Projekt Vorbereitung",
+        "serverid": "753315155168985099",
+        "Prefix": "*",
+        "RadioChannel": "none",
+        "Administrator": "none",
+        "Botnewschannel": "none"
+    },
+    "733341570698576034": {
+        "servername": "Privater Server",
+        "serverid": "733341570698576034",
+        "Prefix": ".",
+        "RadioChannel": "none",
+        "Administrator": "none",
+        "Botnewschannel": "none"
+    }
+}
